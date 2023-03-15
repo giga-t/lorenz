@@ -1,0 +1,8 @@
+@font-face {
+  font-family:'UWL-Gothic';
+  src: url(fonts/URW-Gothic-L/URW-Gothic-L-Demi.ttf);
+}
+
+h1 {
+  font-family: 'UWL-Gothic', Arial;
+}
