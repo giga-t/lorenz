@@ -12,6 +12,6 @@ h3 {
 }
 
 .sitecontent {
-  margin: auto;
+  position: absolute;
   margin-top: 50px;
 }
