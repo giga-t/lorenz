@@ -11,7 +11,10 @@
 
 .backsoon {
   font-family: 'UWL-Gothic', Arial;
-  font-size: 300px;
+  font-weight: 200;
+  color: #333333;
+  font-size: 2.5em;
+  line-height: 1.2em;
 }
 
 h3 {
