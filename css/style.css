@@ -27,8 +27,11 @@
 
 .logo {
   max-width: 200px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
+
 }
 
 .sitecontent {
