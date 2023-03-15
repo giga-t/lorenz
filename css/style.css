@@ -20,5 +20,5 @@ h3 {
 
 .logo {
   display: flex;
-  align-items: center;
+  align-items: top;
 }
