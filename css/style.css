@@ -17,6 +17,10 @@ h3 {
   font-family: 'Noto', Arial, Helvetica, sans-serif;
 }
 
+.logo {
+  width: 400px;
+}
+
 .sitecontent {
   position: absolute;
   top: 50%;
