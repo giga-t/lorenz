@@ -37,8 +37,16 @@
 
 .sitecontent {
   position: absolute;
-  line-height: normal;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.borderBox.colGrey {
+  border: 2px solid #CCCCCC;
+}
+
+.borderBox, .colorBox {
+  padding: 15px;
+  margin-bottom: 30px;
 }
